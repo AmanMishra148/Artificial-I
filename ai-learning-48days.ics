@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AI Learning Plan//8-Week AI Basics//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20250818T030000Z
+DTEND:20250818T043000Z
+DTSTAMP:20250818T030000Z
+UID:73636236-fcc5-4a67-a306-f16e45bbadd0
+SUMMARY:AI Learning - Day 1: What is AI? History & Scope
+DESCRIPTION:• What is AI? History & scope\n• Read syllabus & agent design space\n\nSources:\n• Elements of AI (Intro)\n• Russell & Norvig 4e Chap 1 (free TOC/preview)
+LOCATION:Study Space
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Time for AI Learning!
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250819T030000Z
+DTEND:20250819T043000Z
+DTSTAMP:20250819T030000Z
+UID:236dd733-f23e-47c4-8284-8899d8156f8b
+SUMMARY:AI Learning - Day 2: Intelligent Agents & PEAS Framework
+DESCRIPTION:• Intelligent agents\, PEAS framework\n• Rationality vs. heuristics\n\nSources:\n• Microsoft AI for Beginners Lesson 1\n• AIMA Chap 2
+LOCATION:Study Space
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Time for AI Learning!
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+... (remaining VEVENT blocks for all 48 days)
+END:VCALENDAR
